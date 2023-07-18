@@ -1,0 +1,13 @@
+.reds-button-new.large {
+    line-height: 18px;
+    padding: 0 24px;
+    height: 40px;
+}
+.login-btn {
+    font-size: 16px;
+    height: 48px;
+    width: 100%;
+    font-weight: 600;
+    background-color: olivedrab;
+    color: snow;
+}
