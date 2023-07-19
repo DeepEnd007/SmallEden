@@ -8,7 +8,7 @@ function Buttons() {
 
     return (
         <>
-            <button class="greens-button-new login-btn large primary login-btn" >
+            <button className="greens-button-new login-btn large primary login-btn" >
                 <span class="greens-button-new-box">
                     <span class="greens-button-new-text">
                         <span class="login-btn" >Log in</span>
