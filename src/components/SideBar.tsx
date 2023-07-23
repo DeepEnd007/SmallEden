@@ -10,7 +10,7 @@ function SideBar() {
 
   return (
     <>
-      <div>
+      <div className="SideBar">
         <ul className="channel-list">
           <li className="active-channel">
             <a
