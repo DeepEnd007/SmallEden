@@ -6,12 +6,14 @@ function Header() {
   return (
     <>
       <div className="header-container">
-        <a>
-          <img className="logo" src={logo} />
-        </a>
-        {/* logo */}
-        {/* research */}
-        {/* links */}
+        <header>
+          <a>
+            <img className="logo" src={logo} />
+          </a>
+          {/* logo */}
+          {/* research */}
+          {/* links */}
+        </header>
       </div>
     </>
   );
