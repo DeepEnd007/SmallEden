@@ -1,6 +1,6 @@
-import { useState } from "react";
 import "./Header.css";
 import logo from "../assets/logo.png";
+import SearchBox from "./SearchBox";
 
 function Header() {
   return (
@@ -10,6 +10,7 @@ function Header() {
           <a>
             <img className="logo" src={logo} />
           </a>
+          <SearchBox />
           {/* logo */}
           {/* research */}
           {/* links */}
